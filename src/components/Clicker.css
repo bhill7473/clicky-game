@@ -1,0 +1,27 @@
+button{
+  margin:5px;
+}
+body{
+  background:yellow;
+}
+.panel-heading{
+  color:purple;
+  font-weight:bold;
+  font-family:sans;
+  
+}
+#score{
+  color:green;
+  font-weight:bold;
+  font-family:sans;
+}
+#wins{
+  color:purple;
+  font-weight:bold;
+  font-family:sans;
+}
+#losses{
+  color:purple;
+  font-weight:bold;
+  font-family:sans;
+}
