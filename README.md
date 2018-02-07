@@ -1,2 +1,2 @@
 # clicky-game
-A trivia game made with react.js.
+A trivia game that was made using React Javascript.
